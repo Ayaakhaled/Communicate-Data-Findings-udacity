@@ -11,14 +11,19 @@ What do I need to install? This project uses Python 3 and is designed to be comp
 
 NumPy pandas Matplotlib Seaborn
 
-Why this project? Data visualization is an important skill that is used in many parts of the data analysis process. Exploratory data visualization generally occurs during and after the data wrangling process, and is the main method that you will use to understand the patterns and relationships present in your data. This understanding will help you approach any statistical analyses and will help you build conclusions and findings. This process might also illuminate additional data cleaning tasks to be performed. Explanatory data visualization techniques are used after generating your findings, and are used to help communicate your results to others. Understanding design considerations will make sure that your message is clear and effective. In addition to being a good producer of visualizations, going through this project will also help you be a good consumer of visualizations that are presented to you by others.
 
-What will I learn? After completing this project, you will be able to:
 
-Supplement statistics with visualizations to build understanding of data. Choose appropriate plots, limits, transformations, and aesthetics to explore a dataset, allowing you to understand distributions of variables and relationships between features. Use design principles to create effective visualizations for communicating findings to an audience.
+
+This project is divided into two major parts. In the first part, 
+- conduct an exploratory data analysis on a dataset of your choosing using Python data science and data visualization libraries to explore the dataset’s variables and understand the data’s structure, oddities, patterns and relationships.
+
+In the second part,convey findings exploration to others through an explanatory analysis. To this end, and create slide deck that leverages polished, explanatory visualizations to communicate the  results. This part of the project should make heavy use of the first part of the project. Select one or two major paths in your exploration, choose relevant visualizations along that path, and then polish them to construct a story for the readers to understand the findings 
+
+
+
+
 
 ##Summary of Findings
-olcusions 
 the male geneder freq is higher than the female and othertype 
 Male      1541528
 Female     507383
